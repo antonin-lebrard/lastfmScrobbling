@@ -1,7 +1,7 @@
 name: lastfmScrobbling
 version: 0.0.1
 description: A sample command-line application.
-#author: fandegw <email@example.com>
+#author: Your Name <email@example.com>
 #homepage: https://www.example.com
 
 environment:

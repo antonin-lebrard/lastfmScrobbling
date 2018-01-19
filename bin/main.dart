@@ -1,4 +1,4 @@
-// Copyright (c) 2016, fandegw. All rights reserved. Use of this source code
+// Copyright (c) 2016, Antonin Lebrard. All rights reserved. Use of this source code
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
 import 'package:lastfmScrobbling/lastfmScrobbling.dart';
